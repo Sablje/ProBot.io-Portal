@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /pdf
+
+Sitemap: https://probot.io/sitemap.xml
